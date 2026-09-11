@@ -53,7 +53,7 @@ HINTS = {
 def ejecutar_pruebas():
     os.system('clear' if os.name == 'posix' else 'cls')
     print("\033[1;36m" + "="*65 + "\033[0m")
-    print("\033[1;36m       🎓 TUTOR INTERACTIVO - SPEED RUN SPRING BOOT\033[0m")
+    print("\033[1;36m       EVALUACIÓN DE PRUEBAS - SESIÓN FINAL (PARTE 1)\033[0m")
     print("\033[1;36m" + "="*65 + "\033[0m")
     print("⏳ Ejecutando suite de pruebas...\n")
 

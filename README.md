@@ -1,6 +1,6 @@
-# 🚀 Spring Boot Speed Run — Sesión 1: Relaciones JPA, DTOs y Reglas de Negocio
+# Spring Boot — Sesión Final (Parte 1): Relaciones JPA, DTOs y Reglas de Negocio
 
-¡Bienvenidos a la primera sesión intensiva de Spring Boot!
+¡Bienvenidos a la primera parte de la sesión final de Spring Boot!
 En esta sesión vamos a dar el salto definitivo de datos aislados a un **modelo relacional profesional**: conectaremos vacantes con categorías, evitaremos ciclos infinitos en JSON, crearemos consultas derivadas (*Query Methods*) y protegeremos la integridad del negocio en la capa de servicios.
 
 ---
